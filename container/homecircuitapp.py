@@ -3,7 +3,5 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-logger.info('Servidor HomeCircuit no ar')
-
-
+logger.info('Servidor HomeCircuit iniciando')
 app.run(debug=True)

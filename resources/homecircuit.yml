@@ -1,0 +1,26 @@
+---
+circuits:
+  - title: Circuito 1
+    short-description: Circuito corredor
+    gpio:
+      port: 11
+      mode: OUT
+      value: LOW
+  - title: Circuito 2
+    short-description: Circuito frente
+    gpio:
+      port: 12
+      mode: OUT
+      value: LOW
+  - title: Circuito 3
+    short-description: Circuito fundos
+    gpio:
+      port: 13
+      mode: OUT
+      value: LOW
+  - title: Circuito 4
+    short-description: Circuito cameras
+    gpio:
+      port: 14
+      mode: OUT
+      value: LOW
